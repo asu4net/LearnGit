@@ -1,0 +1,6 @@
+# Rider folder
+.idea
+
+# Binary folders
+bin
+bin-int

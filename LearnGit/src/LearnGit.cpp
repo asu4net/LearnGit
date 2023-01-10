@@ -5,5 +5,6 @@ int main()
     LOG("Hello World!");
     LOG("Read Brandon Sanderson!");
     LOG("You should start in Mistborn, Stormlight Archive, or Elantris");
+    LOG("Mistborn is a story that goes through ages.");
     return 0;
 }

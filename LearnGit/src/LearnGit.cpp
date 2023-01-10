@@ -17,7 +17,7 @@ int main()
         "and has become a time of myths and legends, "
         "in particular as the Knights Radiant left behind their weapons and armor and disappeared into obscurity. ");
 
-    LOG("Sorry for the spam");
+    LOG("Not sorry for the spam");
     
     return 0;
 }

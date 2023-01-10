@@ -16,6 +16,8 @@ int main()
         "swords known as Shardplate and Shardblades as well as magical powers. The last Desolation was believed to be the final one, "
         "and has become a time of myths and legends, "
         "in particular as the Knights Radiant left behind their weapons and armor and disappeared into obscurity. ");
+
+    LOG("Not sorry for the spam");
     
     return 0;
 }
